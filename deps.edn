@@ -1,0 +1,8 @@
+{:deps  {org.clojure/clojure {:mvn/version "1.12.0"}
+         org.scicloj/clay    {:mvn/version "2-beta52"}}
+ :paths ["src"
+         "resources"
+         "notebooks"
+         "components/component1"
+         "components/component2"
+         "components/component3"]}
